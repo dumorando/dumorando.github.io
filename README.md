@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=000000&random=false&width=435&lines=Hi%2C+im+ThePython555!)](https://git.io/typing-svg)
 - 👋 Hi, I’m Dumo178
 - 👀 I’m interested in python and c++
 - 💔 I’m not looking to collaborate on anything
